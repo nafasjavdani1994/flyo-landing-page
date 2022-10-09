@@ -116,7 +116,7 @@ img {
 }
 
 .second-part {
-    background: url(/src/images/bg-curve-desktop.svg);
+    background: url(/images/bg-curve-desktop.svg);
     background-repeat: no-repeat;
     background-position: top;
     background-size: cover;
